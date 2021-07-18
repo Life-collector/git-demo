@@ -17,3 +17,4 @@ hello atguigu! hello git!master test
 hello atguigu! hello git!hot-fix test
 22222
 edit in browser
+edit by clone
